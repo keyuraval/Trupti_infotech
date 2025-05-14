@@ -90,7 +90,7 @@ const Testimonial17 = (props) => {
                       {props.author2Name ?? (
                         <Fragment>
                           <span className="testimonial17-text29">
-                            Jane Smith
+                            Ojas Dave
                           </span>
                         </Fragment>
                       )}
@@ -113,100 +113,6 @@ const Testimonial17 = (props) => {
                         Working with Byte Solutions was a breeze. They were
                         responsive to our needs and provided valuable insights
                         throughout the development process.
-                      </span>
-                    </Fragment>
-                  )}
-                </span>
-              </div>
-            </div>
-          </div>
-          <div className="thq-animated-card-bg-2">
-            <div className="thq-animated-card-bg-1">
-              <div
-                data-animated="true"
-                className="thq-card testimonial17-card3"
-              >
-                <div className="testimonial17-container16">
-                  <img
-                    alt={props.author3Alt}
-                    src={props.author3Src}
-                    className="testimonial17-image3"
-                  />
-                  <div className="testimonial17-container17">
-                    <strong className="thq-body-large">
-                      {props.author3Name ?? (
-                        <Fragment>
-                          <span className="testimonial17-text27">
-                            David Johnson
-                          </span>
-                        </Fragment>
-                      )}
-                    </strong>
-                    <span className="thq-body-small">
-                      {props.author3Position ?? (
-                        <Fragment>
-                          <span className="testimonial17-text33">
-                            Founder, 123 Startup
-                          </span>
-                        </Fragment>
-                      )}
-                    </span>
-                  </div>
-                </div>
-                <span className="testimonial17-text20 thq-body-small">
-                  {props.review3 ?? (
-                    <Fragment>
-                      <span className="testimonial17-text36">
-                        I highly recommend Byte Solutions for anyone
-                        looking to create a professional and user-friendly
-                        website. They are truly experts in their field.
-                      </span>
-                    </Fragment>
-                  )}
-                </span>
-              </div>
-            </div>
-          </div>
-          <div className="thq-animated-card-bg-2">
-            <div className="thq-animated-card-bg-1">
-              <div
-                data-animated="true"
-                className="thq-card testimonial17-card4"
-              >
-                <div className="testimonial17-container18">
-                  <img
-                    alt={props.author4Alt}
-                    src={props.author4Src}
-                    className="testimonial17-image4"
-                  />
-                  <div className="testimonial17-container19">
-                    <strong className="thq-body-large">
-                      {props.author4Name ?? (
-                        <Fragment>
-                          <span className="testimonial17-text31">
-                            Sarah Lee
-                          </span>
-                        </Fragment>
-                      )}
-                    </strong>
-                    <span className="thq-body-small">
-                      {props.author4Position ?? (
-                        <Fragment>
-                          <span className="testimonial17-text30">
-                            Creative Director, LMN Agency
-                          </span>
-                        </Fragment>
-                      )}
-                    </span>
-                  </div>
-                </div>
-                <span className="testimonial17-text23 thq-body-small">
-                  {props.review4 ?? (
-                    <Fragment>
-                      <span className="testimonial17-text37">
-                        Byte Solutions transformed our online presence with
-                        a stunning website design. Their attention to detail and
-                        creativity set them apart from the rest.
                       </span>
                     </Fragment>
                   )}

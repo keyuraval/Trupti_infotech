@@ -24,31 +24,13 @@ const Hero17 = (props) => {
               <Fragment>
                 <span className="hero17-text8">
                 Byte Solutions is a software development company, We are running development center of Byte Solutions and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
-                Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients. We are ITIL certified.
+                Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients.
                 </span>
               </Fragment>
             )}
           </p>
         </div>
         <div className="hero17-actions">
-          <button className="thq-button-filled hero17-button1">
-            <span className="thq-body-small">
-              {props.action1 ?? (
-                <Fragment>
-                  <span className="hero17-text6">Get Started</span>
-                </Fragment>
-              )}
-            </span>
-          </button>
-          <button className="thq-button-outline hero17-button2">
-            <span className="thq-body-small">
-              {props.action2 ?? (
-                <Fragment>
-                  <span className="hero17-text5">Learn More</span>
-                </Fragment>
-              )}
-            </span>
-          </button>
         </div>
       </div>
       <div className="hero17-content2">

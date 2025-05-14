@@ -27,11 +27,6 @@ const Home = (props) => {
             <span className="home-text100">Get in touch with us</span>
           </Fragment>
         }
-        action1={
-          <Fragment>
-            <span className="home-text101">Get Started</span>
-          </Fragment>
-        }
         link2={
           <Fragment>
             <span className="home-text102">Services</span>
@@ -87,23 +82,8 @@ const Home = (props) => {
             <span className="home-text112">Check out our portfolio</span>
           </Fragment>
         }
-        action2={
-          <Fragment>
-            <span className="home-text113">Learn More</span>
-          </Fragment>
-        }
       ></Navbar8>
       <Hero17
-        action2={
-          <Fragment>
-            <span className="home-text114">Learn More</span>
-          </Fragment>
-        }
-        action1={
-          <Fragment>
-            <span className="home-text115">Get Started</span>
-          </Fragment>
-        }
         heading1={
           <Fragment>
             <span>
@@ -125,7 +105,7 @@ const Home = (props) => {
         feature3Description={
           <Fragment>
             <span className="home-text118">
-              Customized website design to fit your brand
+            Stand out from the competition with a website design that’s truly one-of-a-kind. We work closely with you to understand your vision and brand identity, then bring it to life with custom visuals and intuitive layouts tailored to your audience.
             </span>
           </Fragment>
         }
@@ -137,7 +117,7 @@ const Home = (props) => {
         feature2Description={
           <Fragment>
             <span className="home-text120">
-              Responsive and mobile-friendly layouts
+            Your website will look and function flawlessly across smartphones, tablets, and desktops. Our responsive design approach ensures that every layout adapts intuitively to any screen size, maximizing reach and usability.
             </span>
           </Fragment>
         }
@@ -149,7 +129,7 @@ const Home = (props) => {
         feature1Description={
           <Fragment>
             <span className="home-text122">
-              Expertise in HTML, CSS, and JavaScript
+            We specialize in building high-performance websites using modern web technologies like HTML5, CSS3, and JavaScript. From static sites to dynamic web apps, we deliver clean, scalable code that powers seamless digital experiences.
             </span>
           </Fragment>
         }
@@ -185,16 +165,14 @@ const Home = (props) => {
         feature3Description={
           <Fragment>
             <span className="home-text127">
-              Engaging user interfaces with interactive elements to enhance user
-              experience
+            We go beyond aesthetics by integrating interactive features that engage users and encourage conversions. From smooth animations to intuitive navigation and dynamic content, we create experiences that keep your audience coming back.
             </span>
           </Fragment>
         }
         feature1Description={
           <Fragment>
             <span className="home-text128">
-              Unique and tailored website designs to suit your brand and
-              business needs
+            We craft visually stunning, custom-designed websites that reflect your brand’s identity and help you stand out in a crowded digital landscape. Every design is tailored to your business goals, ensuring a strong first impression and a memorable user experience.
             </span>
           </Fragment>
         }
@@ -211,8 +189,7 @@ const Home = (props) => {
         feature2Description={
           <Fragment>
             <span className="home-text131">
-              Creating websites that are optimized for all devices and screen
-              sizes
+            Our websites are built to perform seamlessly across all devices—from smartphones and tablets to desktops. We ensure fast load times, smooth navigation, and pixel-perfect responsiveness to provide an optimal experience for every visitor.
             </span>
           </Fragment>
         }
@@ -228,19 +205,9 @@ const Home = (props) => {
             <span className="home-text133">$299</span>
           </Fragment>
         }
-        plan3Action={
-          <Fragment>
-            <span className="home-text134">Get Started</span>
-          </Fragment>
-        }
         plan11={
           <Fragment>
             <span className="home-text135">Basic plan</span>
-          </Fragment>
-        }
-        plan1Action={
-          <Fragment>
-            <span className="home-text136">Get Started</span>
           </Fragment>
         }
         plan31={
@@ -293,16 +260,6 @@ const Home = (props) => {
             <span className="home-text146">$1999</span>
           </Fragment>
         }
-        plan1Action1={
-          <Fragment>
-            <span className="home-text147">Get started</span>
-          </Fragment>
-        }
-        plan2Action={
-          <Fragment>
-            <span className="home-text148">Get Started</span>
-          </Fragment>
-        }
         plan3Feature1={
           <Fragment>
             <span className="home-text149">Custom Website Design</span>
@@ -326,11 +283,6 @@ const Home = (props) => {
         plan2Feature21={
           <Fragment>
             <span className="home-text153">Feature text goes here</span>
-          </Fragment>
-        }
-        plan2Action1={
-          <Fragment>
-            <span className="home-text154">Get started</span>
           </Fragment>
         }
         plan3Feature2={
@@ -472,11 +424,6 @@ const Home = (props) => {
             </span>
           </Fragment>
         }
-        plan3Action1={
-          <Fragment>
-            <span className="home-text181">Get started</span>
-          </Fragment>
-        }
         plan1Price={
           <Fragment>
             <span className="home-text182">$99</span>
@@ -545,22 +492,22 @@ const Home = (props) => {
       <Testimonial17
         author2Position={
           <Fragment>
-            <span className="home-text192">Marketing Director, XYZ Co.</span>
+            <span className="home-text192">Owner, Sahaj Technology</span>
           </Fragment>
         }
         author1Position={
           <Fragment>
-            <span className="home-text193">CEO, ABC Inc.</span>
+            <span className="home-text193">CEO, Vatika Exports</span>
           </Fragment>
         }
         author1Name={
           <Fragment>
-            <span className="home-text194">John Doe</span>
+            <span className="home-text194">Kavita Patel</span>
           </Fragment>
         }
         author3Name={
           <Fragment>
-            <span className="home-text195">David Johnson</span>
+            <span className="home-text195">Rajesh Kumar</span>
           </Fragment>
         }
         review2={
@@ -574,7 +521,7 @@ const Home = (props) => {
         }
         author2Name={
           <Fragment>
-            <span className="home-text197">Jane Smith</span>
+            <span className="home-text197">Ojas Dave</span>
           </Fragment>
         }
         author4Position={

@@ -49,24 +49,6 @@ const Navbar8 = (props) => {
             </a>
           </nav>
           <div className="navbar8-buttons1">
-            <button className="navbar8-action11 thq-button-animated thq-button-filled">
-              <span>
-                {props.action1 ?? (
-                  <Fragment>
-                    <span className="navbar8-text15">Get Started</span>
-                  </Fragment>
-                )}
-              </span>
-            </button>
-            <button className="navbar8-action21 thq-button-outline thq-button-animated">
-              <span>
-                {props.action2 ?? (
-                  <Fragment>
-                    <span className="navbar8-text27">Learn More</span>
-                  </Fragment>
-                )}
-              </span>
-            </button>
           </div>
         </div>
         <div data-thq="thq-burger-menu" className="navbar8-burger-menu">
@@ -125,24 +107,6 @@ const Navbar8 = (props) => {
               </div>
             </nav>
             <div className="navbar8-buttons2">
-              <button className="thq-button-filled">
-                <span>
-                  {props.action1 ?? (
-                    <Fragment>
-                      <span className="navbar8-text15">Get Started</span>
-                    </Fragment>
-                  )}
-                </span>
-              </button>
-              <button className="thq-button-outline">
-                <span>
-                  {props.action2 ?? (
-                    <Fragment>
-                      <span className="navbar8-text27">Learn More</span>
-                    </Fragment>
-                  )}
-                </span>
-              </button>
             </div>
           </div>
           <div className="navbar8-icon-group">
