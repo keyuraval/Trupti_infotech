@@ -106,7 +106,8 @@ const Home = (props) => {
         }
         heading1={
           <Fragment>
-            <span className="home-text116">
+            <span>
+              <h3>Byte Solution</h3>
               Expert Web Development Services
             </span>
           </Fragment>
