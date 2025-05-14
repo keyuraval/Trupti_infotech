@@ -114,8 +114,8 @@ const Home = (props) => {
         content1={
           <Fragment>
             <span className="home-text117">
-              We specialize in HTML, CSS, and JavaScript to create stunning
-              websites tailored to your needs.
+            Byte Solutions is a software development company, We are running development center of Byte Solutions and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
+            Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients. We are ITIL certified.
             </span>
           </Fragment>
         }
@@ -565,7 +565,7 @@ const Home = (props) => {
         review2={
           <Fragment>
             <span className="home-text196">
-              Working with [Your Company Name] was a breeze. They were
+              Working with Byte Solutions was a breeze. They were
               responsive to our needs and provided valuable insights throughout
               the development process.
             </span>
@@ -603,7 +603,7 @@ const Home = (props) => {
           <Fragment>
             <span className="home-text202">
               I was impressed with the professionalism and expertise of the team
-              at [Your Company Name]. They delivered a top-notch website that
+              at Byte Solutions. They delivered a top-notch website that
               exceeded our expectations.
             </span>
           </Fragment>
@@ -616,7 +616,7 @@ const Home = (props) => {
         review3={
           <Fragment>
             <span className="home-text204">
-              I highly recommend [Your Company Name] for anyone looking to
+              I highly recommend Byte Solutions for anyone looking to
               create a professional and user-friendly website. They are truly
               experts in their field.
             </span>
@@ -625,7 +625,7 @@ const Home = (props) => {
         review4={
           <Fragment>
             <span className="home-text205">
-              [Your Company Name] transformed our online presence with a
+              Byte Solutions transformed our online presence with a
               stunning website design. Their attention to detail and creativity
               set them apart from the rest.
             </span>
@@ -635,40 +635,16 @@ const Home = (props) => {
       <Contact10
         content1={
           <Fragment>
-            <span className="home-text206">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in ero.
-            </span>
-          </Fragment>
-        }
-        location1Description={
-          <Fragment>
-            <span className="home-text207">
-              Umiya nagar Industrial Area,Bamroli,Surat
-            </span>
-          </Fragment>
-        }
-        heading1={
-          <Fragment>
-            <span className="home-text208">Contact Us</span>
-          </Fragment>
-        }
-        location2Description={
-          <Fragment>
-            <span className="home-text209">
-              456 Design Avenue, Los Angeles, CA
-            </span>
-          </Fragment>
-        }
-        location1={
-          <Fragment>
-            <span className="home-text210">Surat Office</span>
-          </Fragment>
-        }
-        location2={
-          <Fragment>
-            <span className="home-text211">Los Angeles Office</span>
-          </Fragment>
+          <span className="home-text206">
+            <strong>Pradeep Patel</strong><br />
+            <br />
+            📧 BYTESOLUTION24@GMAIL.COM<br />
+            📞 9924985185<br />
+            🌐 WWW.BYTESOLUTION.COM<br />
+            🏠 PLOT NO. 5&6, UMIYA NAGAR INDUSTRIAL ESTATE,<br />
+            VADODGAM, BAMROLI, SURAT - 394221<br />
+          </span>
+        </Fragment>        
         }
       ></Contact10>
       <Footer4

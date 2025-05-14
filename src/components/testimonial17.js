@@ -64,7 +64,7 @@ const Testimonial17 = (props) => {
                     <Fragment>
                       <span className="testimonial17-text34">
                         I was impressed with the professionalism and expertise
-                        of the team at [Your Company Name]. They delivered a
+                        of the team at Byte Solutions. They delivered a
                         top-notch website that exceeded our expectations.
                       </span>
                     </Fragment>
@@ -110,7 +110,7 @@ const Testimonial17 = (props) => {
                   {props.review2 ?? (
                     <Fragment>
                       <span className="testimonial17-text28">
-                        Working with [Your Company Name] was a breeze. They were
+                        Working with Byte Solutions was a breeze. They were
                         responsive to our needs and provided valuable insights
                         throughout the development process.
                       </span>
@@ -157,7 +157,7 @@ const Testimonial17 = (props) => {
                   {props.review3 ?? (
                     <Fragment>
                       <span className="testimonial17-text36">
-                        I highly recommend [Your Company Name] for anyone
+                        I highly recommend Byte Solutions for anyone
                         looking to create a professional and user-friendly
                         website. They are truly experts in their field.
                       </span>
@@ -204,7 +204,7 @@ const Testimonial17 = (props) => {
                   {props.review4 ?? (
                     <Fragment>
                       <span className="testimonial17-text37">
-                        [Your Company Name] transformed our online presence with
+                        Byte Solutions transformed our online presence with
                         a stunning website design. Their attention to detail and
                         creativity set them apart from the rest.
                       </span>

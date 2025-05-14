@@ -13,7 +13,7 @@ const Footer4 = (props) => {
           </div>
           <div className="footer4-links">
             <a
-              href="https://example.com"
+              href=""
               target="_blank"
               rel="noreferrer noopener"
               className="thq-body-small"
@@ -25,7 +25,7 @@ const Footer4 = (props) => {
               )}
             </a>
             <a
-              href="https://example.com"
+              href=""
               target="_blank"
               rel="noreferrer noopener"
               className="thq-body-small"
@@ -37,7 +37,7 @@ const Footer4 = (props) => {
               )}
             </a>
             <a
-              href="https://example.com"
+              href=""
               target="_blank"
               rel="noreferrer noopener"
               className="thq-body-small"
@@ -49,7 +49,7 @@ const Footer4 = (props) => {
               )}
             </a>
             <a
-              href="https://example.com"
+              href=""
               target="_blank"
               rel="noreferrer noopener"
               className="thq-body-small"
@@ -61,7 +61,7 @@ const Footer4 = (props) => {
               )}
             </a>
             <a
-              href="https://example.com"
+              href=""
               target="_blank"
               rel="noreferrer noopener"
               className="thq-body-small"

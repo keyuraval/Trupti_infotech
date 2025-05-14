@@ -23,8 +23,8 @@ const Hero17 = (props) => {
             {props.content1 ?? (
               <Fragment>
                 <span className="hero17-text8">
-                  We specialize in HTML, CSS, and JavaScript to create stunning
-                  websites tailored to your needs.
+                Byte Solutions is a software development company, We are running development center of Byte Solutions and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
+                Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients. We are ITIL certified.
                 </span>
               </Fragment>
             )}

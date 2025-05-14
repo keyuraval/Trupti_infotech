@@ -47,34 +47,6 @@ const Navbar8 = (props) => {
                 </Fragment>
               )}
             </a>
-            <div
-              onClick={() => setLink5DropdownVisible(!link5DropdownVisible)}
-              className="navbar8-link4-dropdown-trigger"
-            >
-              <span className="thq-link thq-body-small">
-                {props.link4 ?? (
-                  <Fragment>
-                    <span className="navbar8-text21">Contact</span>
-                  </Fragment>
-                )}
-              </span>
-              <div className="navbar8-icon-container1">
-                {link5DropdownVisible && (
-                  <div className="navbar8-container2">
-                    <svg viewBox="0 0 1024 1024" className="navbar8-icon10">
-                      <path d="M298 426h428l-214 214z"></path>
-                    </svg>
-                  </div>
-                )}
-                {!link5DropdownVisible && (
-                  <div className="navbar8-container3">
-                    <svg viewBox="0 0 1024 1024" className="navbar8-icon12">
-                      <path d="M426 726v-428l214 214z"></path>
-                    </svg>
-                  </div>
-                )}
-              </div>
-            </div>
           </nav>
           <div className="navbar8-buttons1">
             <button className="navbar8-action11 thq-button-animated thq-button-filled">
@@ -463,25 +435,25 @@ const Navbar8 = (props) => {
 }
 
 Navbar8.defaultProps = {
-  linkUrlPage4: 'https://www.teleporthq.io',
-  link2Url: 'https://www.teleporthq.io',
+  linkUrlPage4: '',
+  link2Url: '',
   page4Description: undefined,
   page1ImageSrc:
     'https://images.unsplash.com/photo-1551419762-4a3d998f6292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NzIxODA1Nnw&ixlib=rb-4.1.0&q=80&w=1080',
   action1: undefined,
   page2ImageAlt: 'Services Image',
   link2: undefined,
-  linkUrlPage2: 'https://www.teleporthq.io',
-  logoAlt: 'Rife Software Logo',
+  linkUrlPage2: '',
+  logoAlt: 'Byte Solutions',
   logoSrc:
     'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&force_format=original',
   page3ImageAlt: 'Portfolio Image',
-  linkUrlPage1: 'https://www.teleporthq.io',
+  linkUrlPage1: '',
   page1: undefined,
   link1: undefined,
   page4ImageSrc:
     'https://images.unsplash.com/photo-1606146485652-75b352ce408a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NzIxODA1Nnw&ixlib=rb-4.1.0&q=80&w=1080',
-  linkUrlPage3: 'https://www.teleporthq.io',
+  linkUrlPage3: '',
   page4: undefined,
   page2: undefined,
   link4: undefined,
@@ -494,11 +466,11 @@ Navbar8.defaultProps = {
   page2Description: undefined,
   link3: undefined,
   page3: undefined,
-  link1Url: 'https://www.teleporthq.io',
+  link1Url: '',
   page3Description: undefined,
   page1ImageAlt: 'Homepage Image',
   action2: undefined,
-  link3Url: 'https://www.teleporthq.io',
+  link3Url: '',
 }
 
 Navbar8.propTypes = {
