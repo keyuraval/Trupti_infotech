@@ -229,15 +229,6 @@ const Navbar8 = (props) => {
                         </Fragment>
                       )}
                     </span>
-                    <span className="thq-body-small">
-                      {props.page4Description ?? (
-                        <Fragment>
-                          <span className="navbar8-text14">
-                            Get in touch with us
-                          </span>
-                        </Fragment>
-                      )}
-                    </span>
                   </div>
                 </div>
               </a>

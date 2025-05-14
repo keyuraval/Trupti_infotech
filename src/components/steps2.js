@@ -17,9 +17,6 @@ const Steps2 = (props) => {
             focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients. We are ITIL certified.
             </p>
             <div className="steps2-actions">
-              <button className="thq-button-animated thq-button-filled steps2-button">
-                <span className="thq-body-small">Main action</span>
-              </button>
             </div>
           </div>
           <div className="steps2-container3">

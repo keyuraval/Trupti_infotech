@@ -22,11 +22,6 @@ const Home = (props) => {
         <meta property="og:title" content="Byte Solutions" />
       </Helmet>
       <Navbar8
-        page4Description={
-          <Fragment>
-            <span className="home-text100">Get in touch with us</span>
-          </Fragment>
-        }
         link2={
           <Fragment>
             <span className="home-text102">Services</span>
@@ -96,7 +91,7 @@ const Home = (props) => {
           <Fragment>
             <span className="home-text117">
             Byte Solutions is a software development company, We are running development center of Byte Solutions and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
-            Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients. We are ITIL certified.
+            Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients.
             </span>
           </Fragment>
         }
@@ -153,11 +148,6 @@ const Home = (props) => {
               Let our team of expert developers help you create a stunning
               website that stands out from the rest.
             </span>
-          </Fragment>
-        }
-        action1={
-          <Fragment>
-            <span className="home-text126">Get in touch with us today</span>
           </Fragment>
         }
       ></CTA26>
