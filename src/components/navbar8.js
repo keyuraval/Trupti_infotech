@@ -1,6 +1,7 @@
 import React, { useState, Fragment } from 'react'
 
 import PropTypes from 'prop-types'
+import logo from '../assets/logo1.png'
 
 import './navbar8.css'
 
@@ -229,6 +230,7 @@ const Navbar8 = (props) => {
                         </Fragment>
                       )}
                     </span>
+
                   </div>
                 </div>
               </a>
@@ -250,15 +252,15 @@ Navbar8.defaultProps = {
   linkUrlPage4: '',
   link2Url: '',
   page4Description: undefined,
-  page1ImageSrc:
-    'https://images.unsplash.com/photo-1551419762-4a3d998f6292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NzIxODA1Nnw&ixlib=rb-4.1.0&q=80&w=1080',
+  page1ImageSrc:logo,
+    // 'https://images.unsplash.com/ph?oto-1551419762-4a3d998f6292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NzIxODA1Nnw&ixlib=rb-4.1.0&q=80&w=1080',
   action1: undefined,
   page2ImageAlt: 'Services Image',
   link2: undefined,
   linkUrlPage2: '',
   logoAlt: 'Byte Solutions',
-  logoSrc:
-    'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&force_format=original',
+  logoSrc:logo,
+    // 'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&force_format=original',
   page3ImageAlt: 'Portfolio Image',
   linkUrlPage1: '',
   page1: undefined,
