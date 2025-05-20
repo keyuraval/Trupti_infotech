@@ -578,7 +578,7 @@ const Home = (props) => {
             <br />
             📧 BYTESOLUTION24@GMAIL.COM<br />
             📞 9924985185<br />
-            🌐 WWW.BYTESOLUTION.COM<br />
+            🌐 WWW.BYTESOLUTION24.COM<br />
             🏠 PLOT NO. 5&6, UMIYA NAGAR INDUSTRIAL ESTATE,<br />
             VADODGAM, BAMROLI, SURAT - 394221<br />
           </span>
@@ -603,7 +603,7 @@ const Home = (props) => {
         }
         termsLink={
           <Fragment>
-            <span className="home-text215">/terms-and-conditions</span>
+            <span className="home-text215">terms-and-conditions</span>
           </Fragment>
         }
         link2={
@@ -618,12 +618,12 @@ const Home = (props) => {
         }
         cookiesLink={
           <Fragment>
-            <span className="home-text218">/cookies-policy</span>
+            <span className="home-text218">cookies-policy</span>
           </Fragment>
         }
         privacyLink={
           <Fragment>
-            <span className="home-text219">/privacy-policy</span>
+            <span className="home-text219">privacy-policy</span>
           </Fragment>
         }
       ></Footer4>

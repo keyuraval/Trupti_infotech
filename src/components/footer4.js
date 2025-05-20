@@ -7,11 +7,11 @@ import './footer4.css'
 const Footer4 = (props) => {
   return (
     <footer className="footer4-footer7 thq-section-padding">
-      <div className="footer4-max-width thq-section-max-width">
+       <div className="footer4-max-width thq-section-max-width">
         <div className="footer4-content">
           <div className="footer4-logo1">
           </div>
-          <div className="footer4-links">
+          {/* <div className="footer4-links">
             <a
               href=""
               target="_blank"
@@ -72,7 +72,7 @@ const Footer4 = (props) => {
                 </Fragment>
               )}
             </a>
-          </div>
+          </div> */}
         </div>
         <div className="footer4-credits">
           <div className="thq-divider-horizontal"></div>
@@ -80,7 +80,7 @@ const Footer4 = (props) => {
             <div className="footer4-container">
               <span className="thq-body-small">© 2024 ByteSolutions</span>
             </div>
-            <div className="footer4-footer-links">
+            {/* <div className="footer4-footer-links">
               <span className="footer4-text11 thq-body-small">
                 {props.privacyLink ?? (
                   <Fragment>
@@ -104,10 +104,10 @@ const Footer4 = (props) => {
                   </Fragment>
                 )}
               </span>
-            </div>
+            </div> */}
           </div>
         </div>
-      </div>
+      </div> 
     </footer>
   )
 }
