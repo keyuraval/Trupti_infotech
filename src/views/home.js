@@ -576,9 +576,9 @@ const Home = (props) => {
           <span className="home-text206">
             <strong>Pradeep Patel</strong><br />
             <br />
-            📧 BYTESOLUTION24@GMAIL.COM<br />
+            📧 BYTESOLUTIONS24@GMAIL.COM<br />
             📞 9924985185<br />
-            🌐 WWW.BYTESOLUTION24.COM<br />
+            🌐 WWW.BYTESOLUTIONS24.COM<br />
             🏠 PLOT NO. 5&6, UMIYA NAGAR INDUSTRIAL ESTATE,<br />
             VADODGAM, BAMROLI, SURAT - 394221<br />
           </span>
