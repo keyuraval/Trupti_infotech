@@ -78,7 +78,7 @@ const Footer4 = (props) => {
           <div className="thq-divider-horizontal"></div>
           <div className="footer4-row">
             <div className="footer4-container">
-              <span className="thq-body-small">© 2024 ByteSolutions</span>
+              <span className="thq-body-small">© 2021 ByteSolutions</span>
             </div>
             {/* <div className="footer4-footer-links">
               <span className="footer4-text11 thq-body-small">
