@@ -492,12 +492,12 @@ We are committed to creating intellectual property for our clients while ensurin
         }
         author1Position={
           <Fragment>
-            <span className="home-text193">CEO, Vatika Exports</span>
+            <span className="home-text193">CEO, Khodal Exports</span>
           </Fragment>
         }
         author1Name={
           <Fragment>
-            <span className="home-text194">Kavita Patel</span>
+            <span className="home-text194">Dhyey Patel</span>
           </Fragment>
         }
         author3Name={
@@ -508,15 +508,13 @@ We are committed to creating intellectual property for our clients while ensurin
         review2={
           <Fragment>
             <span className="home-text196">
-              Working with Trupti Infotech was a breeze. They were
-              responsive to our needs and provided valuable insights throughout
-              the development process.
+            Working with Trupti Infotech was seamless. The team was highly responsive to our needs and offered valuable insights throughout the development process.
             </span>
           </Fragment>
         }
         author2Name={
           <Fragment>
-            <span className="home-text197">Ojas Dave</span>
+            <span className="home-text197">Shivam Raj</span>
           </Fragment>
         }
         author4Position={
@@ -545,9 +543,7 @@ We are committed to creating intellectual property for our clients while ensurin
         review1={
           <Fragment>
             <span className="home-text202">
-              I was impressed with the professionalism and expertise of the team
-              at Trupti Infotech. They delivered a top-notch website that
-              exceeded our expectations.
+            I was thoroughly impressed by the professionalism and expertise of the team at Trupti Infotech. They delivered a high-quality website that far exceeded our expectations.
             </span>
           </Fragment>
         }
