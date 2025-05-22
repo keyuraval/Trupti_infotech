@@ -64,7 +64,7 @@ const Testimonial17 = (props) => {
                     <Fragment>
                       <span className="testimonial17-text34">
                         I was impressed with the professionalism and expertise
-                        of the team at Byte Solutions. They delivered a
+                        of the team at Trupti Infotech. They delivered a
                         top-notch website that exceeded our expectations.
                       </span>
                     </Fragment>
@@ -110,7 +110,7 @@ const Testimonial17 = (props) => {
                   {props.review2 ?? (
                     <Fragment>
                       <span className="testimonial17-text28">
-                        Working with Byte Solutions was a breeze. They were
+                        Working with Trupti Infotech was a breeze. They were
                         responsive to our needs and provided valuable insights
                         throughout the development process.
                       </span>

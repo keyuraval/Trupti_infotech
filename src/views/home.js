@@ -18,8 +18,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Byte Solutions</title>
-        <meta property="og:title" content="Byte Solutions" />
+        <title>Trupti Infotech</title>
+        <meta property="og:title" content="Trupti Infotech" />
       </Helmet>
       <Navbar8
         link2={
@@ -82,7 +82,7 @@ const Home = (props) => {
         heading1={
           <Fragment>
             <span>
-              <h3>Byte Solution</h3>
+              <h3>Trupti Infotech</h3>
               Expert Web Development Services
             </span>
           </Fragment>
@@ -90,8 +90,8 @@ const Home = (props) => {
         content1={
           <Fragment>
             <span className="home-text117">
-            Byte Solutions is a software development company, We are running development center of Byte Solutions and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
-            Byte Solutions focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients.
+            Trupti Infotech is a software development company, We are running development center of Trupti Infotech and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
+            Trupti Infotech focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients.
             </span>
           </Fragment>
         }
@@ -503,7 +503,7 @@ const Home = (props) => {
         review2={
           <Fragment>
             <span className="home-text196">
-              Working with Byte Solutions was a breeze. They were
+              Working with Trupti Infotech was a breeze. They were
               responsive to our needs and provided valuable insights throughout
               the development process.
             </span>
@@ -541,7 +541,7 @@ const Home = (props) => {
           <Fragment>
             <span className="home-text202">
               I was impressed with the professionalism and expertise of the team
-              at Byte Solutions. They delivered a top-notch website that
+              at Trupti Infotech. They delivered a top-notch website that
               exceeded our expectations.
             </span>
           </Fragment>
@@ -554,7 +554,7 @@ const Home = (props) => {
         review3={
           <Fragment>
             <span className="home-text204">
-              I highly recommend Byte Solutions for anyone looking to
+              I highly recommend Trupti Infotech for anyone looking to
               create a professional and user-friendly website. They are truly
               experts in their field.
             </span>
@@ -563,7 +563,7 @@ const Home = (props) => {
         review4={
           <Fragment>
             <span className="home-text205">
-              Byte Solutions transformed our online presence with a
+              Trupti Infotech transformed our online presence with a
               stunning website design. Their attention to detail and creativity
               set them apart from the rest.
             </span>
@@ -574,13 +574,12 @@ const Home = (props) => {
         content1={
           <Fragment>
           <span className="home-text206">
-            <strong>Pradeep Patel</strong><br />
+            <strong>Trupti Patel</strong><br />
             <br />
-            📧 BYTESOLUTION24@GMAIL.COM<br />
-            📞 9924985185<br />
-            🌐 WWW.BYTESOLUTIONS24.COM<br />
-            🏠 PLOT NO. 5&6, UMIYA NAGAR INDUSTRIAL ESTATE,<br />
-            VADODGAM, BAMROLI, SURAT - 394221<br />
+            📧 TRUPTIINFOTECH17@GMAIL.COM<br />
+            📞 9408613035<br />
+            🌐 WWW.TRUPTIINFOTECH.COM<br />
+            🏠 205, ANUPAM SQUARE, ALTHAN CROSS ROAD, ALTHAN, SURAT-395017<br />
           </span>
         </Fragment>        
         }
