@@ -90,8 +90,13 @@ const Home = (props) => {
         content1={
           <Fragment>
             <span className="home-text117">
-            Trupti Infotech is a software development company, We are running development center of Trupti Infotech and as a part developing all products and running online support casses. We as team of quality people provides the best & robust solution to ramp up software development and scale up quickly in various technology.
-            Trupti Infotech focusing on solution via Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence and Analytics along with Quality and Testing Services. Our focus is on developing intellectual property for our clients, while working for quick turnaround development and build scalable and robust solutions for our Global clients.
+            Trupti Infotech is a leading software development company. We operate its development center, where we focus on building a wide range of products and managing ongoing online support cases.
+
+Our team of skilled professionals delivers high-quality, robust solutions that accelerate software development and enable rapid scaling across various technologies.
+
+Trupti Infotech specializes in Custom Application Development, Product Engineering, Enterprise Solutions, Business Intelligence & Analytics, as well as Quality Assurance and Testing Services.
+
+We are committed to creating intellectual property for our clients while ensuring fast, scalable, and reliable development solutions for our global clientele.
             </span>
           </Fragment>
         }
